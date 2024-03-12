@@ -7,9 +7,18 @@ tags: [Fresa, Frutilla, Generalidades, clima, Frio, Requerimientos]
 
 # Efecto de la bajas temperaturas:
 
-(2) En los cultivos de fresa, el frío, especialmente los lapsos de exposición a temperaturas entre el rango de 0 y 7°C, promueve respuestas de gran impacto tanto en el ámbito reproductivo como vegetativo, siendo uno de los factores de suma importancia para lograr un equilibrio en ambas fases. En general, al estar dentro del rango de horas frío (0 a 7°C), el frío mejora el crecimiento vegetativo, reduce la inducción floral, no afecta la iniciación floral, pero aumenta la diferenciación floral y estimula el desarrollo de inflorescencias previamente diferenciadas.
+<br>
+<div style="text-align: justify;">
+(2) En los cultivos de fresa, el frío, especialmente los lapsos de exposición a temperaturas entre el rango de 0 y 7°C, promueve respuestas de gran impacto tanto en el ámbito reproductivo como vegetativo, siendo uno de los factores de suma importancia para lograr un equilibrio en ambas fases. En general, al estar dentro del rango de horas frío (0 a 7°C), el frío mejora el crecimiento vegetativo, reduce la inducción floral, no afecta la iniciación floral, pero aumenta la diferenciación floral y estimula el desarrollo de inflorescencias previamente diferenciadas.(1)
+</div>
+<br>
 
+<br>
+<div style="text-align: justify;">
 De igual manera, si se presentan temperaturas demasiado cálidas, la formación de brotes florales se ve restringida. Al estar expuesta a temperaturas altas, el estrés en la planta afecta negativamente el proceso reproductivo de la fresa.(1)
+</div>
+<br>
+
 
 (2.2) Las bajas temperaturas podrían dañar completamente las flores o dañar el tejido del fruto en desarrollo, lo que provocaría frutos deformes. La polinización también se ve afectada si la temperatura desciende por debajo de 60 o F (15 o C) durante la floración. Como resultado, algunos aquenios no tienen semilla, permanecen pequeños y provocan la distorsión del fruto. El daño por frío también puede causar frutos con múltiples puntas. Los frutos distorsionados por el daño del insecto lygus tienen aquenios de tamaño uniforme, pero los aquenios afectados por el daño por frío son mucho más pequeños que los de las partes no afectadas del fruto.
 
@@ -40,4 +49,8 @@ fructificación y de 23 a 28 °C para el buen crecimiento vegetativo, sobre
 todo en los cultivares de día corto. 
 *Link:* file:///C:/Users/avila/OneDrive/Escritorio/late%20clips/Olivera-Cultivo_de_Fresa.pdf
 
+<br>
+<div style="text-align: justify;">
 (1).- Kirschbaum, D. S. (2022). Características botánicas, fisiología y tipos de variedades de fresas. En A. Namesny, C. Conesa, L. M. Olmos y P. Papasseit (E d.), Cultivo, poscosecha, procesado y comercio de berries (pp. 141-154). Ciudad, Valencia, España: SPE3.
+<br>
+<div>
