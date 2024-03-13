@@ -19,10 +19,14 @@ De igual manera, si se presentan temperaturas demasiado cálidas, la formación 
 </div>
 <br>
 
-
+<br>
+<div style="text-align: justify;">
 (2.2) Las bajas temperaturas podrían dañar completamente las flores o dañar el tejido del fruto en desarrollo, lo que provocaría frutos deformes. La polinización también se ve afectada si la temperatura desciende por debajo de 60 o F (15 o C) durante la floración. Como resultado, algunos aquenios no tienen semilla, permanecen pequeños y provocan la distorsión del fruto. El daño por frío también puede causar frutos con múltiples puntas. Los frutos distorsionados por el daño del insecto lygus tienen aquenios de tamaño uniforme, pero los aquenios afectados por el daño por frío son mucho más pequeños que los de las partes no afectadas del fruto.
 
 *Link:* https://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=9092#:~:text=Damage%3A%20Low%20temperatures%20could%20completely,small%2C%20and%20cause%20fruit%20distortion 
+
+</div>
+<br>
 
 (3.3) Se sabe que las altas temperaturas reducen el tamaño de la fruta y el peso de la fruta en la
 La fresa se cultiva principalmente en climas templados porque su temperatura de crecimiento óptima oscila entre los 10 C a 26 C (Strik, 1985). Sin embargo, también se puede cultivar comercialmente en las tierras altas más frescas de países tropicales como Filipinas, donde las temperaturas oscilan entre los 12 C a 26 C (Aspuria et al., 1996). Temperaturas altas por encima de 30 Se sabe que C reduce el tamaño de la fruta (Wang y Camp, 2000), el peso de la fruta (Kumakura y Shishido, 1994), y el crecimiento general de las plantas (Hellman y Travis, 1988). Mori (1998) encontró que el número de aquenes por fruta era menor a una temperatura diurna/noche de 32/27 C que a las 24/19 C y 20/15 - C. Sin embargo, no midió el conjunto de frutas, el crecimiento de la fruta y los días hasta la madurez.
@@ -41,7 +45,7 @@ En el cultivo de fresa o frutilla cada variedad tiene diferentes requerimientos 
 
 Cada variedad tiene diferentes requerimientos de horas frio, lo cual es necesario conocer ya que las plantas se desarrollan débiles cuando no es suficiente la cantidad del mismo, da frutos blandos y se reduce la vida comercial, mientras que un exceso de frío acumulado, tiene como consecuencia producciones más bajas, un gran crecimiento vegetativo y la aparición de estolones prematuros.
 
-<img src="https://raw.githubusercontent.com/420Avila/420avila.github.io/main/Imagenes/horas%20frio.png">
+<img src="https://raw.githubusercontent.com/420Avila/420avila.github.io/main/Imagenes/horas%20frio.png" alt="Texto alternativo">
 
 
 *Link:* https://agrotendencia.tv/agropedia/el-cultivo-de-la-fresa-o-frutilla/#:~:text=La%20planta%20de%20fresa%20es,como%20lo%20veremos%20m%C3%A1s%20adelante 
