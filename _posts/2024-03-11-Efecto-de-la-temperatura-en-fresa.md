@@ -41,6 +41,9 @@ En el cultivo de fresa o frutilla cada variedad tiene diferentes requerimientos 
 
 Cada variedad tiene diferentes requerimientos de horas frio, lo cual es necesario conocer ya que las plantas se desarrollan débiles cuando no es suficiente la cantidad del mismo, da frutos blandos y se reduce la vida comercial, mientras que un exceso de frío acumulado, tiene como consecuencia producciones más bajas, un gran crecimiento vegetativo y la aparición de estolones prematuros.
 
+<img src="https://raw.githubusercontent.com/420Avila/420avila.github.io/main/Imagenes/horas%20frio.png">
+
+
 *Link:* https://agrotendencia.tv/agropedia/el-cultivo-de-la-fresa-o-frutilla/#:~:text=La%20planta%20de%20fresa%20es,como%20lo%20veremos%20m%C3%A1s%20adelante 
 
 (5.5) Este cultivo se adapta a diferentes condiciones de temperaturas pero
