@@ -1,3 +1,4 @@
+
 El uso de goteros, o mejor, cintas perforadas o de exudación. Éstas, a pesar de su menor duración, permiten controlar mejor los riegos, distribuyen el agua más uniformemente a lo largo de la línea, creando un bulbo húmedo más continuo, al tiempo que resultan más económicas que los goteros (1.1).
 
 *Link* http://repositorio.uaaan.mx:8080/xmlui/bitstream/handle/123456789/5300/T19498%20VALDES%20TAPIA%2C%20MARIA%20CRISTINA%20MONOG..pdf?sequence=1&isAllowed=y
